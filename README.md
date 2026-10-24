@@ -48,8 +48,7 @@ sha256sum
 
 # 📁 Directory Structure
 
-_local_packages/
-    *.ipk
+_local_packages_apk
     apn-web-files/
         apn.html
         control
